@@ -4,4 +4,4 @@ Compiling done on osh High Sierra
 
 ## Current packages
 
-Wownero CLI v0.5.1
+Wownero CLI v0.5.0.1-2c745517
